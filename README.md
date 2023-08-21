@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://i.gifer.com/NKTe.gif" alt="Spark Refresher &amp; Projects" />
+  <img src="./Common/images/NKTe.gif" alt="Spark Refresher &amp; Projects" />
   &#xa0;
   <!-- <a href="https://sparkrefresher&amp;projects.netlify.app">Demo</a> -->
 </div>
